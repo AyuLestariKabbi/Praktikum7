@@ -1,7 +1,8 @@
 # Praktikum7
 
+## soal1.cpp
 
-##soal1.cpp Alur Argoritma
+**Alur Argoritma**
 
     Mulai program tersebut
     input interger fungsi (int, int)
@@ -59,7 +60,7 @@ return 0;
 **Hasil**
 ![[Hasil](
 
-##Soal2.cpp
+## Soal2.cpp
 
 Alur Argoritma
 
@@ -110,7 +111,9 @@ main()
 **Hasil**
 ![[Hasil](
 
-##soal3.cpp Alur Argoritma
+## soal3.cpp
+
+**Alur Argoritma**
 
     Mulai program tersebut
     input menggunakan initruksi void dan menggunakan pointer untuk menetapakan void typedata (char *s)
@@ -123,12 +126,12 @@ Pseudecode
 #include
 #include
 void balik(char *k){
-if(*k!=î){
+if(*k!=‚Äù){
 balik(&k[1]);
 cout<
 }
 }main(){
-char *kata=î....î;--> //untuk masukan kata
+char *kata=‚Äù....‚Äù;--> //untuk masukan kata
 balik(kata);
 cout<
 return 0;
