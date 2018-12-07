@@ -20,8 +20,8 @@ Pseudecode
     c= a+b, a=b, b=c
     end
 
-CODE PROGRAM
-
+**KODE PROGRAM**
+```c/c++
 #include <iostream>
 
 using namespace std;
@@ -47,6 +47,7 @@ int main()
 {
 int bil, a, b,c;
 
+cout<<"Program oleh Ayu Lestari"<<endl;
 cout<<"Masukkan bilangan deret ke-: ";
 cin>>bil;
 cout<<"\nBilangan fibonaccinya untuk "<<bil<<" adalah ";
@@ -78,8 +79,8 @@ deskripsi a x b =
 3. -a + (a x (b + 1)), untuk b < 0
 4. end
 
-CODE PROGRAM
-
+**KODE PROGRAM**
+```c/c++
 #include <iostream>
 using namespace std;
 
@@ -98,9 +99,10 @@ int kali_rekursif(int a, int b)
 main()
 {
  int a, b;
+ cout<<"Program oleh Ayu Lestari"<<endl;
  cout << "Masukan Bilangan : ";
  cin >> a;
- cout << "Dikli Dengan :";
+ cout << "Dikali Dengan :";
  cin >> b;
  cout << " AxB = " << kali_rekursif(a, b) << endl;
 }
