@@ -59,7 +59,7 @@ return 0;
 }
 ```
 **Hasil**
-![[Hasil](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum7/master/Latihan1/Screenshot%20(41).png)
+![Hasil](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum7/master/Latihan1/Screenshot%20(41).png)
 
 ## Soal2.cpp
 
@@ -110,7 +110,7 @@ main()
 }
 ```
 **Hasil**
-![[Hasil](
+![[Hasil](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum7/master/Screenshot%20(42).png)
 
 ## soal3.cpp
 
