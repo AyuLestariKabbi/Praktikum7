@@ -3,14 +3,15 @@
 ## soal1.cpp
 
 **Alur Argoritma**
-
-    Mulai program tersebut
-    input interger fungsi (int, int)
-    input interger a dan b dan deskripsikan a=0, dan b=1.
-    jika nilai suku satu (b) adalah =1 dan jika nilai suku dua (a) adalah =0.
-    maka cetak rumus fungsi iteratif menggunakan for intruksikan fungsi fibonacci di awali dengan 2 dan di akhiri dengan indexs suku
-    deskripsikan variable untuk mencetak fuungsi selanjutnya.
-    cetak suku fibonacci menggunakan pemanggilan fungsi itertif.
+ 
+1. Mulai program tersebut
+2. input interger fungsi (int, int)
+3. input interger a dan b dan deskripsikan a=0, dan b=1.
+4.jika nilai suku satu (b) adalah =1 dan jika nilai suku dua (a) adalah =0.
+5. maka cetak rumus fungsi iteratif menggunakan for intruksikan fungsi fibonacci
+6. di awali dengan 2 dan di akhiri dengan indexs suku
+7. deskripsikan variable untuk mencetak fuungsi selanjutnya.
+8. cetak suku fibonacci menggunakan pemanggilan fungsi itertif.
 
 Pseudecode
 
@@ -56,13 +57,13 @@ cout<< iteratif ( bil,  a,  b,  c);
 
 return 0;
 }
-
+```
 **Hasil**
-![[Hasil](
+![[Hasil](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum7/master/Latihan1/Screenshot%20(41).png)
 
 ## Soal2.cpp
 
-Alur Argoritma
+**Alur Argoritma**
 
     Mulai program tersebut
     input interger fungsi (int a, intb).
@@ -107,7 +108,7 @@ main()
  cin >> b;
  cout << " AxB = " << kali_rekursif(a, b) << endl;
 }
-
+```
 **Hasil**
 ![[Hasil](
 
@@ -155,6 +156,6 @@ int main()
     return 0;
 
 }
-
+```
 **Hasil**
 ![[Hasil](
