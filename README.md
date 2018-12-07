@@ -137,8 +137,8 @@ balik(kata);
 cout<
 return 0;
 
-CODE PROGRAM
-
+**KODE PROGRAM**
+```c/c++
 #include<iostream>
 #include<string.h>
 
