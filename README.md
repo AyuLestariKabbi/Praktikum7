@@ -65,13 +65,13 @@ return 0;
 
 **Alur Argoritma**
 
-    Mulai program tersebut
-    input interger fungsi (int a, intb).
-    jika nilai interger (b==0) return 0.
-    jika nilai (b>0) intruksikan return a + type data (a, b - 1).
-    Sebaliknya return (-a) + type Data (a, b+1)
-    masukan variabel a,b untuk menginput nilai awal dan dibagi degan nilai selanjutny.
-    cetak nilai perkalian dengan memanggil funsi rekrusif menggunkan type datany.
+1. Mulai program tersebut
+2. input interger fungsi (int a, intb).
+3. jika nilai interger (b==0) return 0.
+4. jika nilai (b>0) intruksikan return a + type data (a, b - 1).
+5. Sebaliknya return (-a) + type Data (a, b+1)
+6. masukan variabel a,b untuk menginput nilai awal dan dibagi degan nilai selanjutny.
+7. cetak nilai perkalian dengan memanggil funsi rekrusif menggunkan type datany.
 
 Pseudecode
 
@@ -110,17 +110,17 @@ main()
 }
 ```
 **Hasil**
-![[Hasil](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum7/master/Screenshot%20(42).png)
+![Hasil](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum7/master/Screenshot%20(42).png)
 
 ## soal3.cpp
 
 **Alur Argoritma**
 
-    Mulai program tersebut
-    input menggunakan initruksi void dan menggunakan pointer untuk menetapakan void typedata (char *s)
-    jika nilai s!=0--> menggunakan Pointer(*) maka masukan intruksi membalik (&s[1])
-    masuan char untuk intruksi kata yang ingin kita ubah dan intruksi balik
-    cetak pemblikan kata dengan memanggil funsi rekrusif menggunkan type datany.
+1. Mulai program tersebut
+2. input menggunakan initruksi void dan menggunakan pointer untuk menetapakan void typedata (char *s)
+3. jika nilai s!=0--> menggunakan Pointer(*) maka masukan intruksi membalik (&s[1])
+4. masuan char untuk intruksi kata yang ingin kita ubah dan intruksi balik
+5. cetak pemblikan kata dengan memanggil funsi rekrusif menggunkan type datany.
 
 Pseudecode
 
@@ -158,4 +158,4 @@ int main()
 }
 ```
 **Hasil**
-![[Hasil](
+![Hasil](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum7/master/Latihan3/Screenshot%20(43).png)
